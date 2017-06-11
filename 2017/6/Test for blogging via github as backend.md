@@ -1,0 +1,1 @@
+* This is as simple test fpr blogging via github repository
