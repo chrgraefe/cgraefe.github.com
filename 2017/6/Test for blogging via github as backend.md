@@ -1,1 +1,2 @@
-* This is as simple test fpr blogging via github repository
+* This is as simple test for blogging via github repository
+** This is a addition to this post
