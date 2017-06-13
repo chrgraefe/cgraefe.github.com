@@ -9,6 +9,10 @@ permalink: >
   http://sharptools.de/2017/06/13/post-pulled-from-github/
 published: true
 ---
+
+Headline
+========
+
 * This is a test post with github as backend
-** Addition to this post
-*** Line 3
+* Addition to this post
+* Line 3
