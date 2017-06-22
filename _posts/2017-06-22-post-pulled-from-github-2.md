@@ -1,12 +1,12 @@
 ---
 ID: 32
-post_title: Post pulled from GitHub
+post_title: interesting links
 author: sharptools_wp
 post_date: 2017-06-22 20:04:55
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sharptools.de/2017/06/22/post-pulled-from-github-2/
+  http://sharptools.de/2017/06/22/interesting links/
 published: true
 ---
 # This is a collection of interesting links
