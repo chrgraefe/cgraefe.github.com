@@ -1,5 +1,5 @@
 ---
-post_title: Post pulled from GitHub
+post_title: Interesting links
 author: Christian Gräfe
 post_excerpt: "Interesting links"
 layout: post
