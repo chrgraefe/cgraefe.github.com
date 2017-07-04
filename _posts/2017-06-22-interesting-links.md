@@ -19,6 +19,7 @@ published: true
 *   OpServer [GitHub][8]
 *   WinSCP PowerShell Module [GitHub][9]
 *   WinSCP.Net [Homepage][10]
+*   Tabular Editor [GitHub][11]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -30,3 +31,4 @@ published: true
  [8]: https://github.com/opserver/Opserver
  [9]: https://github.com/dotps1/WinSCP
  [10]: https://winscp.net/eng/index.php
+ [11]: https://github.com/otykier/TabularEditor
