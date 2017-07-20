@@ -20,6 +20,7 @@ published: true
 *   WinSCP PowerShell Module [GitHub][9]
 *   WinSCP.Net [Homepage][10]
 *   Tabular Editor [GitHub][11]
+*   Notepad++ [GitHub][12] / [Homepage][13]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -32,3 +33,5 @@ published: true
  [9]: https://github.com/dotps1/WinSCP
  [10]: https://winscp.net/eng/index.php
  [11]: https://github.com/otykier/TabularEditor
+ [12]: https://github.com/notepad-plus-plus/notepad-plus-plus
+ [13]: https://notepad-plus-plus.org/
