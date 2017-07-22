@@ -21,6 +21,7 @@ published: true
 *   WinSCP.Net [Homepage][10]
 *   Tabular Editor [GitHub][11]
 *   Notepad++ [GitHub][12] / [Homepage][13]
+*   PoSH-SSH [GitHub][14]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -35,3 +36,4 @@ published: true
  [11]: https://github.com/otykier/TabularEditor
  [12]: https://github.com/notepad-plus-plus/notepad-plus-plus
  [13]: https://notepad-plus-plus.org/
+ [14]: https://github.com/darkoperator/Posh-SSH
