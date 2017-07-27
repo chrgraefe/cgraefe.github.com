@@ -23,6 +23,8 @@ published: true
 *   Notepad++ [GitHub][12] / [Homepage][13]
 *   PoSH-SSH [GitHub][14]
 *   Greenshot [GitHub][15]
+*   Pssdiag/Sqldiag Manager [GitHub][16]
+*   SqlNexus [GitHub][17]
 
 
  [1]: https://github.com/sqlcollaborative/dbatools
@@ -40,3 +42,5 @@ published: true
  [13]: https://notepad-plus-plus.org/
  [14]: https://github.com/darkoperator/Posh-SSH
  [15]: https://github.com/greenshot/greenshot
+ [16]: https://github.com/Microsoft/DiagManager
+ [17]: https://github.com/Microsoft/SqlNexus
