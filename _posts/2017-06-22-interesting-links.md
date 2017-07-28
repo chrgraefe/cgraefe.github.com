@@ -25,6 +25,7 @@ published: true
 *   Greenshot [GitHub][15]
 *   Pssdiag/Sqldiag Manager [GitHub][16]
 *   SqlNexus [GitHub][17]
+*   rdpManager [Homepage][18]
 
 
  [1]: https://github.com/sqlcollaborative/dbatools
@@ -44,3 +45,4 @@ published: true
  [15]: https://github.com/greenshot/greenshot
  [16]: https://github.com/Microsoft/DiagManager
  [17]: https://github.com/Microsoft/SqlNexus
+ [18]: https://www.cinspiration.de/de/
