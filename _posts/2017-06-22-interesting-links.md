@@ -27,6 +27,7 @@ published: true
 *   SqlNexus [GitHub][17]
 *   rdpManager [Homepage][18]
 *   ScreenToGif [GitHub][19]
+*   PSSwagger [GitHub][20]
 
 
  [1]: https://github.com/sqlcollaborative/dbatools
@@ -47,4 +48,5 @@ published: true
  [16]: https://github.com/Microsoft/DiagManager
  [17]: https://github.com/Microsoft/SqlNexus
  [18]: https://www.cinspiration.de/de/
- [19]: https://github.com/NickeManarin/ScreenToGif/
+ [19]: https://github.com/NickeManarin/ScreenToGif
+ [20]: https://github.com/PowerShell/PSSwagger
