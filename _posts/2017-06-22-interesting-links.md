@@ -29,6 +29,7 @@ published: true
 *   ScreenToGif [GitHub][19]
 *   PSSwagger [GitHub][20]
 *   Monitor-ADGroupMembership [GitHub][21]
+*   AutomatedLab [GitHub][22]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -51,3 +52,4 @@ published: true
  [19]: https://github.com/NickeManarin/ScreenToGif
  [20]: https://github.com/PowerShell/PSSwagger
  [21]: https://github.com/lazywinadmin/Monitor-ADGroupMembership
+ [22]: https://github.com/AutomatedLab/AutomatedLab
