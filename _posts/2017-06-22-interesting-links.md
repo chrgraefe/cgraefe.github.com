@@ -30,6 +30,7 @@ published: true
 *   PSSwagger [GitHub][20]
 *   Monitor-ADGroupMembership [GitHub][21]
 *   AutomatedLab [GitHub][22]
+*   CsvHelper [GitHub][23] / [Homepage][24]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -53,3 +54,5 @@ published: true
  [20]: https://github.com/PowerShell/PSSwagger
  [21]: https://github.com/lazywinadmin/Monitor-ADGroupMembership
  [22]: https://github.com/AutomatedLab/AutomatedLab
+ [23]: https://github.com/JoshClose/CsvHelper
+ [24]: https://joshclose.github.io/CsvHelper/
