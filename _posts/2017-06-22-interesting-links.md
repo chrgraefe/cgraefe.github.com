@@ -31,6 +31,7 @@ published: true
 *   Monitor-ADGroupMembership [GitHub][21]
 *   AutomatedLab [GitHub][22]
 *   CsvHelper [GitHub][23] / [Homepage][24]
+*   CISL [GitHub][25]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -56,3 +57,4 @@ published: true
  [22]: https://github.com/AutomatedLab/AutomatedLab
  [23]: https://github.com/JoshClose/CsvHelper
  [24]: https://joshclose.github.io/CsvHelper/
+ [25]: https://github.com/NikoNeugebauer/CISL
