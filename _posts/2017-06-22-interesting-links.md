@@ -32,6 +32,7 @@ published: true
 *   AutomatedLab [GitHub][22]
 *   CsvHelper [GitHub][23] / [Homepage][24]
 *   CISL [GitHub][25]
+*   OutlookGoogleCalendarSync [GitHub][26]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -58,3 +59,4 @@ published: true
  [23]: https://github.com/JoshClose/CsvHelper
  [24]: https://joshclose.github.io/CsvHelper/
  [25]: https://github.com/NikoNeugebauer/CISL
+ [26]: https://github.com/phw198/OutlookGoogleCalendarSync
