@@ -35,6 +35,7 @@ published: true
 *   OutlookGoogleCalendarSync [GitHub][26]
 *   Pester [GitHub][27]
 *   PowerShell Plaster [GitHub][28]
+*   PowerShell Modules Central [GitHub][29]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -64,3 +65,4 @@ published: true
  [26]: https://github.com/phw198/OutlookGoogleCalendarSync
  [27]: https://github.com/pester/Pester
  [28]: https://github.com/PowerShell/Plaster
+ [29]: https://github.com/ClaudioESSilva/PowerShellModulesCentral
