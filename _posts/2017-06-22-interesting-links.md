@@ -36,6 +36,7 @@ published: true
 *   Pester [GitHub][27]
 *   PowerShell Plaster [GitHub][28]
 *   PowerShell Modules Central [GitHub][29]
+*   BPCheck - SQL Best Practices and Performance checks [GitHub][30]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -66,3 +67,4 @@ published: true
  [27]: https://github.com/pester/Pester
  [28]: https://github.com/PowerShell/Plaster
  [29]: https://github.com/ClaudioESSilva/PowerShellModulesCentral
+ [30]: https://github.com/Microsoft/tigertoolbox/tree/master/BPCheck
