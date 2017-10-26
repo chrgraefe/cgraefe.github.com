@@ -33,6 +33,7 @@ published: true
 * PowerShell Modules Central [GitHub][29]
 * BPCheck - SQL Best Practices and Performance checks [GitHub][30]
 * Polaris – Simple Microservices using only PowerShell [GitHub][31]
+* vmxtoolkit – Powershell extension to VMware Workstation [GitHub][32]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -60,3 +61,4 @@ published: true
  [29]: https://github.com/ClaudioESSilva/PowerShellModulesCentral
  [30]: https://github.com/Microsoft/tigertoolbox/tree/master/BPCheck
  [31]: https://github.com/powershell/polaris
+ [32]: https://github.com/bottkars/vmxtoolkit
