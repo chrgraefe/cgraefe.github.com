@@ -42,9 +42,6 @@ published: true
  [6]: https://ola.hallengren.com/
  [7]: https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
  [8]: https://github.com/opserver/Opserver
- [9]: https://github.com/dotps1/WinSCP
- [10]: https://winscp.net/eng/index.php
- [11]: https://github.com/otykier/TabularEditor
  [12]: https://github.com/notepad-plus-plus/notepad-plus-plus
  [13]: https://notepad-plus-plus.org/
  [14]: https://github.com/darkoperator/Posh-SSH
@@ -54,8 +51,6 @@ published: true
  [18]: https://www.cinspiration.de/de/
  [19]: https://github.com/NickeManarin/ScreenToGif
  [20]: https://github.com/PowerShell/PSSwagger
- [21]: https://github.com/lazywinadmin/Monitor-ADGroupMembership
- [22]: https://github.com/AutomatedLab/AutomatedLab
  [23]: https://github.com/JoshClose/CsvHelper
  [24]: https://joshclose.github.io/CsvHelper/
  [25]: https://github.com/NikoNeugebauer/CISL
