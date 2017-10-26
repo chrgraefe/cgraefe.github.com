@@ -34,6 +34,7 @@ published: true
 * BPCheck - SQL Best Practices and Performance checks [GitHub][30]
 * Polaris – Simple Microservices using only PowerShell [GitHub][31]
 * vmxtoolkit – Powershell extension to VMware Workstation [GitHub][32]
+* sqlmap – Penetration tool for sql injection tests [GitHub][33]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -62,3 +63,4 @@ published: true
  [30]: https://github.com/Microsoft/tigertoolbox/tree/master/BPCheck
  [31]: https://github.com/powershell/polaris
  [32]: https://github.com/bottkars/vmxtoolkit
+ [33]: https://github.com/sqlmapproject/sqlmap
