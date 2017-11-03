@@ -36,6 +36,7 @@ published: true
 * vmxtoolkit – Powershell extension to VMware Workstation [GitHub][32]
 * sqlmap – Penetration tool for sql injection tests [GitHub][33]
 * ditto – Clipboard extension to save more than one entry [Homepage][34]
+* DeploymentContributorFilterer - DacPac deployment filter [GitHub][35]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -66,3 +67,4 @@ published: true
  [32]: https://github.com/bottkars/vmxtoolkit
  [33]: https://github.com/sqlmapproject/sqlmap
  [34]: http://ditto-cp.sourceforge.net/
+ [35]: https://github.com/GoEddie/DeploymentContributorFilterer
