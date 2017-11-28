@@ -55,7 +55,7 @@ published: true
  [15]: https://github.com/greenshot/greenshot
  [16]: https://github.com/Microsoft/DiagManager
  [17]: https://github.com/Microsoft/SqlNexus
- [18]: https://www.cinspiration.de/de/
+ [18]: https://www.cinspiration.de/de/download.html
  [19]: https://github.com/NickeManarin/ScreenToGif
  [20]: https://github.com/PowerShell/PSSwagger
  [23]: https://github.com/JoshClose/CsvHelper
