@@ -1,12 +1,12 @@
 ---
 ID: 15
 post_title: Padding of strings
-author: sharptools_wp
+author: Christian Gräfe
 post_date: 2017-01-10 10:58:07
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sharptools.de/2017/01/10/padding-of-strings/
+  http://passionindata.de/2017/01/10/padding-of-strings/
 published: true
 mytory_md_visits_count:
   - "1"

@@ -1,12 +1,12 @@
 ---
 ID: 32
 post_title: interesting links
-author: sharptools_wp
+author: Christian Gräfe
 post_date: 2017-06-22 20:04:55
 post_excerpt: ""
 layout: post
 permalink: >
-  http://sharptools.de/2017/06/22/interesting_links/
+  http://passionindata.de/2017/06/22/interesting_links/
 published: true
 ---
 # This is a collection of interesting links
