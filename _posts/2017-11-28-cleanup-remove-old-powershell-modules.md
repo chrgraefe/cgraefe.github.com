@@ -42,14 +42,14 @@ PS C:Windowssystem32>
 ```
 
 If everything works correct, it looks like above. You can check the module versions with the first command again. 
-[code lang="powershell"]
-PS C:\Windowssystem32> Get-InstalledModule -Name dbatools -AllVersions
+<pre><code class="powershell">
+PS C:\Windows\system32> Get-InstalledModule -Name dbatools -AllVersions
 
 Version Name      Repository  Description ------- ---- ---------- ----------- 
 0.9.107 dbatools  PSGallery   The community module that enables SQL Server Pro...
 
 PS C:\Windows\system32> 
-[code]
+</code></pre>
 
 I hope this is useful for you.
 
