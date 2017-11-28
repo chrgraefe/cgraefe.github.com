@@ -38,6 +38,7 @@ published: true
 * ditto – Clipboard extension to save more than one entry [Homepage][34]
 * DeploymentContributorFilterer - DacPac deployment filter [GitHub][35]
 * AdventureWorks Databases [GitHub][36]
+* Poor mans T-SQL formatter vscode extension [GitHub][37]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -70,3 +71,4 @@ published: true
  [34]: http://ditto-cp.sourceforge.net/
  [35]: https://github.com/GoEddie/DeploymentContributorFilterer
  [36]: https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases
+ [37]: https://github.com/TaoK/poor-mans-t-sql-formatter-vscode-extension
