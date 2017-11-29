@@ -13,7 +13,6 @@ mytory_md_visits_count:
 ---
 <h1>Preamble</h1> <p>With this post I will start blogging about SQL Server, Powershell &amp; C#. Starting with a T-SQL Tuesday blog post, which is hosted this month by <a href="https://www.brentozar.com/archive/2017/01/announcing-t-sql-tuesday-87-sql-server-bugs-enhancement-requests/">Brent Ozar</a>. </p> <p align="right">&nbsp; <img src="https://www.brentozar.com/wp-content/uploads/2016/11/tsql2sday150x150.jpg"></p> <h1>Introduction</h1> <p>A long time ago I filed a <a href="https://connect.microsoft.com/SQLServer/Feedback/Details/728597">connect item</a> to request new funtions for padding a value with a defined value. I used and still need such a feature to prepare data for export data to system like MVS.</p> <p>Example from Oracle with the left padding function</p> <div id="scid:C89E2BDB-ADD3-4f7a-9810-1B7EACF446C1:566d0ba3-970e-4046-b030-12d8cef4ebda" class="wlWriterEditableSmartContent" style="float: none; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; display: inline; padding-right: 0px"><pre style=white-space:normal>
 <pre><code class="sql">
-[sourcecode language='sql'  padlinenumbers='true' htmlscript='false' collapse='false']
 select lpad(10, 4, ‘0’) padd from dual;
 </code></pre>
 </pre>
