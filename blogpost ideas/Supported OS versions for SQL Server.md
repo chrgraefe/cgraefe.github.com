@@ -1,4 +1,14 @@
+---
+post_title: Supported SQL Server versions
+layout: post
+permalink: >
+  http://passionindata.de/2017/12/11/Supported OS versions for SQL Server
+published: true
+
+---
 # Supported SQL Server versions
+
+## Compatibility matrix of supported SQL Server versions to Windows Server versions
 
 |OS - Server version    | SQL Server 2008   | SQL Server 2008 R2    | SQL Server 2012   | SQL Server 2014   | SQL Server 2016   | SQL Server 2017   |
 | ---                   |:---:              | ---                   | ---               | ---               | ---               | ---               |
