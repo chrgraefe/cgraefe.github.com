@@ -40,6 +40,7 @@ published: true
 * AdventureWorks Databases [GitHub][36]
 * Stack Data Dump Importer [GitHub][37]
 * Poor mans T-SQL formatter vscode extension [GitHub][38]
+* mssql-cli - interactive command line tool for SQL Server [GitHub][39]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -74,3 +75,4 @@ published: true
  [36]: https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases
  [37]: https://github.com/BrentOzarULTD/soddi
  [38]: https://github.com/TaoK/poor-mans-t-sql-formatter-vscode-extension
+ [39]: https://github.com/dbcli/mssql-cli/
