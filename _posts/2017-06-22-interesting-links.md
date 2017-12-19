@@ -41,7 +41,8 @@ published: true
 * Stack Data Dump Importer [GitHub][37]
 * Poor mans T-SQL formatter vscode extension [GitHub][38]
 * mssql-cli - interactive command line tool for SQL Server [GitHub][39]
-* Blocking Monitor - SQL Server blocking monitor by Andy Mallon [GitHub][40]
+* Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
+* T-SQL smells - Static code analysis for VS 2015 [GitHub][41]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -78,3 +79,4 @@ published: true
  [38]: https://github.com/TaoK/poor-mans-t-sql-formatter-vscode-extension
  [39]: https://github.com/dbcli/mssql-cli
  [40]: https://github.com/amtwo/dba-database
+ [41]: https://github.com/davebally/TSQL-Smells
