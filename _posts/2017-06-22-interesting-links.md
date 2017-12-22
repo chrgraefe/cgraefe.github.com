@@ -43,6 +43,7 @@ published: true
 * mssql-cli - interactive command line tool for SQL Server [GitHub][39]
 * Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
 * T-SQL smells - Static code analysis for VS 2015 [GitHub][41]
+* T-SQL rules - Static code analysis for VS 2015 [GitHub][42]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -80,3 +81,4 @@ published: true
  [39]: https://github.com/dbcli/mssql-cli
  [40]: https://github.com/amtwo/dba-database
  [41]: https://github.com/davebally/TSQL-Smells
+ [42]: https://github.com/ashleyglee/TSqlRules
