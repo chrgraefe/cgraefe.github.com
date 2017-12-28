@@ -1,13 +1,11 @@
-print char(10)
-
 ;WITH cteCHARS AS
 (
-select 
- column_id id
-,'CHAR(' + CAST(column_id AS VARCHAR(2)) + ')' ZEICHEN
- from sys.columns
-where
-object_id = 22
+	select 
+	column_id id
+	,'CHAR(' + CAST(column_id AS VARCHAR(2)) + ')' ZEICHEN
+	from sys.columns
+	where
+	object_id = 22
 )
 select
 STRING_AGG(cte.ZEICHEN, '+') CH
