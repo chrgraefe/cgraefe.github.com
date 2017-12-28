@@ -11,9 +11,9 @@ Sometimes it is neccessary to take any character into account. The standard beha
 
 so if you try this
 
-<pre><code class="powershell">
+<pre class="sql">
     SELECT LEN(' 234 ') length
-</code></pre>
+</pre>
 
 it returns 4
 
