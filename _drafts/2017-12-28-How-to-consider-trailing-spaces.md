@@ -5,7 +5,7 @@ author: sharptools_wp
 post_excerpt: ""
 layout: post
 permalink: http://passionindata.de/?p=87
-published: false
+published: true
 ---
 Sometimes it is neccessary to take any character into account. The standard behavior of sql SQL Server LEN function ignores trailing spaces.
 
