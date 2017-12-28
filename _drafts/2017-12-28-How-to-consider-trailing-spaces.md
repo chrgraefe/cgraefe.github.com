@@ -3,6 +3,7 @@ ID: 87
 post_title: How to consider trailing spaces
 author: sharptools_wp
 post_excerpt: ""
+category: "T-SQl"
 layout: post
 permalink: http://passionindata.de/2017/12/28/how-to-consider-trailing-spaces/
 published: true
