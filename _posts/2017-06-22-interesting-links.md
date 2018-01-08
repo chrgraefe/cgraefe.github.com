@@ -45,6 +45,7 @@ published: true
 * T-SQL smells - Static code analysis for VS 2015 [GitHub][41]
 * T-SQL rules - Static code analysis for VS 2015 [GitHub][42]
 * WP-Markdown - Allows Markdown to be enabled in posts [GitHub][43]
+* SQL Operations Studio - SQL Operations Studio is a data management tool [GitHub][44]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -84,3 +85,4 @@ published: true
  [41]: https://github.com/davebally/TSQL-Smells
  [42]: https://github.com/ashleyglee/TSqlRules
  [43]: https://github.com/stephenharris/WP-MarkDown
+ [44]: https://github.com/Microsoft/sqlopsstudio
