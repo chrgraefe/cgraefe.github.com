@@ -57,3 +57,6 @@ public partial class UserDefinedFunctions
 <h1>Summary</h1>
 <p>At the end of the day, I want a standard function without implementing this common helper functionality at every database. Additionally I assume a native implementation of left or right padding will perform much better as my custom functions.</p>
 <p>So, if you agree with me, please vote for my <a href="https://connect.microsoft.com/SQLServer/Feedback/Details/728597">connect item #728597</a></p>
+<p>
+Update: 18.01.2018
+Due to the move of connect to a user voice base plattform the item has also been moved <a href="https://feedback.azure.com/forums/908035-sql-server/suggestions/32896552-provide-lpad-rpad-funtion">New feedback plattform</a></p>
