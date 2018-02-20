@@ -48,6 +48,8 @@ published: true
 * SQL Operations Studio - SQL Operations Studio is a data management tool [GitHub][44]
 * SQL Server Feedback/Issue Site [Homepage][45]
 * SQL Server Setup Tools [GitHub][46]
+* MVC Tag Helper Pack [GitHub][47]
+* SoapCore - SOAP with ASP.NET Core [GitHub][48]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -90,3 +92,5 @@ published: true
  [44]: https://github.com/Microsoft/sqlopsstudio
  [45]: https://feedback.azure.com/forums/908035-sql-server/
  [46]: https://github.com/suyouquan/SQLSetupTools
+ [47]: https://github.com/DamianEdwards/TagHelperPack
+ [48]: https://github.com/DigDes/SoapCore
