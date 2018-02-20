@@ -28,6 +28,7 @@ With this knowledge we can build a little script, which removes all versions, bu
 
 <pre><code class="powershell">
 $module = Get-InstalledModule -Name dbatools
+Get-Module -Name $module.Name | Remove-Module
 Get-InstalledModule $module.Name -AllVersions | Where-Object {$_.Version -ne $module.Version} | Uninstall-Module -Verbose
 
 VERBOSE: Performing the operation "Uninstall-Module" on target "Version '0.9.105' of module 'dbatools'".
