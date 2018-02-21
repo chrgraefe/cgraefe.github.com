@@ -50,7 +50,6 @@ published: true
 * SQL Server Setup Tools [GitHub][46]
 * MVC Tag Helper Pack [GitHub][47]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
-* MS SQL Server sample databases - sample database like AdventureWorks [GitHub][49]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -82,7 +81,7 @@ published: true
  [33]: https://github.com/sqlmapproject/sqlmap
  [34]: http://ditto-cp.sourceforge.net/
  [35]: https://github.com/GoEddie/DeploymentContributorFilterer
- [36]: https://github.com/Microsoft/sql-server-samples/tree/master/samples/databases
+ [36]: https://github.com/Microsoft/sql-server-samples
  [37]: https://github.com/BrentOzarULTD/soddi
  [38]: https://github.com/TaoK/poor-mans-t-sql-formatter-vscode-extension
  [39]: https://github.com/dbcli/mssql-cli
@@ -95,4 +94,3 @@ published: true
  [46]: https://github.com/suyouquan/SQLSetupTools
  [47]: https://github.com/DamianEdwards/TagHelperPack
  [48]: https://github.com/DigDes/SoapCore
- [49]: https://github.com/Microsoft/sql-server-samples
