@@ -50,7 +50,7 @@ published: true
 * SQL Server Setup Tools [GitHub][46]
 * MVC Tag Helper Pack [GitHub][47]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
-* MS SQL Server sample databases - sample database like AdventureWorks [GitHub][48]
+* MS SQL Server sample databases - sample database like AdventureWorks [GitHub][49]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
