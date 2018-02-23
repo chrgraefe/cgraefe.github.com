@@ -51,6 +51,7 @@ published: true
 * MVC Tag Helper Pack [GitHub][47]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * PostMan - Request and process data via REST [GitHub][49]
+* KeePass OneDrive Sync - Allows syncing of KeePass databases stored on OneDrive [GitHub][50]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -96,3 +97,4 @@ published: true
  [47]: https://github.com/DamianEdwards/TagHelperPack
  [48]: https://github.com/DigDes/SoapCore
  [49]: https://www.getpostman.com
+ [50]: https://github.com/KoenZomers/KeePassOneDriveSync
