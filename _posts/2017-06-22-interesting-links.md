@@ -12,6 +12,7 @@ published: true
 # This is a collection of interesting links
 
 * dbatools [GitHub][1] / [Homepage][2]
+* dbachecks [GitHub][51]
 * OpenQueryStore [GitHub][3]
 * Win32-OpenSSH [GitHub][4]
 * Ola Hallengren [GitHub][5] / [Homepage][6]
@@ -98,3 +99,4 @@ published: true
  [48]: https://github.com/DigDes/SoapCore
  [49]: https://www.getpostman.com
  [50]: https://github.com/KoenZomers/KeePassOneDriveSync
+ [51]: https://github.com/KoenZomers/KeePassOneDriveSync
