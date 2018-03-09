@@ -21,32 +21,14 @@ published: true
 * Notepad++ [GitHub][12] / [Homepage][13]
 * PoSH-SSH [GitHub][14]
 * Greenshot [GitHub][15]
-* Pssdiag/Sqldiag Manager [GitHub][16]
-* SqlNexus [GitHub][17]
-* rdpManager [Homepage][18]
 * ScreenToGif [GitHub][19]
-* PSSwagger [GitHub][20]
 * CsvHelper [GitHub][23] / [Homepage][24]
 * CISL [GitHub][25]
 * OutlookGoogleCalendarSync [GitHub][26]
-* Pester [GitHub][27]
-* PowerShell Plaster [GitHub][28]
-* PowerShell Modules Central [GitHub][29]
 * BPCheck - SQL Best Practices and Performance checks [GitHub][30]
-* Polaris – Simple Microservices using only PowerShell [GitHub][31]
-* vmxtoolkit – Powershell extension to VMware Workstation [GitHub][32]
-* sqlmap – Penetration tool for sql injection tests [GitHub][33]
 * ditto – Clipboard extension to save more than one entry [Homepage][34]
-* DeploymentContributorFilterer - DacPac deployment filter [GitHub][35]
 * AdventureWorks Databases [GitHub][36]
-* Stack Data Dump Importer [GitHub][37]
-* Poor mans T-SQL formatter vscode extension [GitHub][38]
-* mssql-cli - interactive command line tool for SQL Server [GitHub][39]
 * Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
-* T-SQL smells - Static code analysis for VS 2015 [GitHub][41]
-* T-SQL rules - Static code analysis for VS 2015 [GitHub][42]
-* WP-Markdown - Allows Markdown to be enabled in posts [GitHub][43]
-* SQL Operations Studio - SQL Operations Studio is a data management tool [GitHub][44]
 * SQL Server Feedback/Issue Site [Homepage][45]
 * SQL Server Setup Tools [GitHub][46]
 * MVC Tag Helper Pack [GitHub][47]
@@ -66,33 +48,15 @@ published: true
  [13]: https://notepad-plus-plus.org/
  [14]: https://github.com/darkoperator/Posh-SSH
  [15]: https://github.com/greenshot/greenshot
- [16]: https://github.com/Microsoft/DiagManager
- [17]: https://github.com/Microsoft/SqlNexus
- [18]: https://www.cinspiration.de/de/download.html
  [19]: https://github.com/NickeManarin/ScreenToGif
- [20]: https://github.com/PowerShell/PSSwagger
  [23]: https://github.com/JoshClose/CsvHelper
  [24]: https://joshclose.github.io/CsvHelper/
  [25]: https://github.com/NikoNeugebauer/CISL
  [26]: https://github.com/phw198/OutlookGoogleCalendarSync
- [27]: https://github.com/pester/Pester
- [28]: https://github.com/PowerShell/Plaster
- [29]: https://github.com/ClaudioESSilva/PowerShellModulesCentral
  [30]: https://github.com/Microsoft/tigertoolbox/tree/master/BPCheck
- [31]: https://github.com/powershell/polaris
- [32]: https://github.com/bottkars/vmxtoolkit
- [33]: https://github.com/sqlmapproject/sqlmap
  [34]: http://ditto-cp.sourceforge.net/
- [35]: https://github.com/GoEddie/DeploymentContributorFilterer
  [36]: https://github.com/Microsoft/sql-server-samples
- [37]: https://github.com/BrentOzarULTD/soddi
- [38]: https://github.com/TaoK/poor-mans-t-sql-formatter-vscode-extension
- [39]: https://github.com/dbcli/mssql-cli
  [40]: https://github.com/amtwo/dba-database
- [41]: https://github.com/davebally/TSQL-Smells
- [42]: https://github.com/ashleyglee/TSqlRules
- [43]: https://github.com/stephenharris/WP-MarkDown
- [44]: https://github.com/Microsoft/sqlopsstudio
  [45]: https://feedback.azure.com/forums/908035-sql-server/
  [46]: https://github.com/suyouquan/SQLSetupTools
  [47]: https://github.com/DamianEdwards/TagHelperPack
