@@ -13,13 +13,11 @@ published: true
 
 * dbatools [GitHub][1] / [Homepage][2]
 * dbachecks [GitHub][51]
-* OpenQueryStore [GitHub][3]
-* Win32-OpenSSH [GitHub][4]
+* OpenSSH-portable [GitHub][4]
 * Ola Hallengren [GitHub][5] / [Homepage][6]
 * FirstResponderKit [GitHub][7]
-* OpServer [GitHub][8]
 * Notepad++ [GitHub][12] / [Homepage][13]
-* PoSH-SSH [GitHub][14]
+* WinSCP [GitHub][14]
 * Greenshot [GitHub][15]
 * ScreenToGif [GitHub][19]
 * CsvHelper [GitHub][23] / [Homepage][24]
@@ -38,15 +36,13 @@ published: true
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
- [3]: https://github.com/OpenQueryStore/OpenQueryStore
- [4]: https://github.com/PowerShell/Win32-OpenSSH
+ [4]: https://github.com/PowerShell/openssh-portable
  [5]: https://github.com/olahallengren/sql-server-maintenance-solution
  [6]: https://ola.hallengren.com/
  [7]: https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
- [8]: https://github.com/opserver/Opserver
  [12]: https://github.com/notepad-plus-plus/notepad-plus-plus
  [13]: https://notepad-plus-plus.org/
- [14]: https://github.com/darkoperator/Posh-SSH
+ [14]: https://github.com/dotps1/WinSCP
  [15]: https://github.com/greenshot/greenshot
  [19]: https://github.com/NickeManarin/ScreenToGif
  [23]: https://github.com/JoshClose/CsvHelper
