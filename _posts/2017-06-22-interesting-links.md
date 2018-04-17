@@ -27,6 +27,7 @@ published: true
 * ditto – Clipboard extension to save more than one entry [Homepage][34]
 * AdventureWorks Databases [GitHub][36]
 * Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
+* Query Performance Insights [GitHub][52]
 * SQL Server Feedback/Issue Site [Homepage][45]
 * SQL Server Setup Tools [GitHub][46]
 * MVC Tag Helper Pack [GitHub][47]
@@ -60,3 +61,4 @@ published: true
  [49]: https://www.getpostman.com
  [50]: https://github.com/KoenZomers/KeePassOneDriveSync
  [51]: https://github.com/sqlcollaborative/dbachecks
+ [52]: https://github.com/JocaPC/qpi
