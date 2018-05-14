@@ -7,7 +7,7 @@ author: sharptools_wp
 post_excerpt: ""
 layout: post
 permalink: http://passionindata.de/?p=110
-published: false
+published: true
 ---
 # Add indexes quick and easy
 
