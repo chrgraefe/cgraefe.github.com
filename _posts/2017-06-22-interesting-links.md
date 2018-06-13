@@ -34,6 +34,7 @@ published: true
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * PostMan - Request and process data via REST [GitHub][49]
 * KeePass OneDrive Sync - Allows syncing of KeePass databases stored on OneDrive [GitHub][50]
+* Energy production statistics of Germany on daily basis [Link][53]
 
  [1]: https://github.com/sqlcollaborative/dbatools
  [2]: https://dbatools.io/
@@ -62,3 +63,4 @@ published: true
  [50]: https://github.com/KoenZomers/KeePassOneDriveSync
  [51]: https://github.com/sqlcollaborative/dbachecks
  [52]: https://github.com/JocaPC/qpi
+ [53]: https://www.energy-charts.de/energy_pie_de.htm
