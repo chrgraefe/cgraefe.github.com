@@ -50,7 +50,7 @@ END
 
 I often discuss this code and several other helper functions for string formatting with colleagues. We never found a good replacement for this functionality, so it stays in my tool belt.
 
-May be Microsoft will implement a similar function in SQL Server like Oracle has for years. You can upvote my \[connect item/feature]\[2]
+May be Microsoft will implement a similar function in SQL Server like Oracle has for years. You can upvote my [feature request][2]
 
 
 
