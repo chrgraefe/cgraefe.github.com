@@ -11,7 +11,7 @@ post_date: 2018-07-10 15:52:10
 ---
 # Code I can't live without
 
-This is my contribution to the TSQL-Tuseday #104 ![TSQL Tuesday][1]
+This is my contribution to the T-SQL-Tuesday #104 ![TSQL Tuesday][1]
 
 ## "Left" padding of numbers
 
