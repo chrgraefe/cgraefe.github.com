@@ -5,7 +5,7 @@ author: sharptools_wp
 post_excerpt: ""
 layout: post
 permalink: http://passionindata.de/?p=114
-published: false
+published: true
 ---
 <pre class="sql">CREATE FUNCTION [dbo].[PADL]
 (
