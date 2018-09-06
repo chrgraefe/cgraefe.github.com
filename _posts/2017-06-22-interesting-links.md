@@ -44,8 +44,9 @@ published: true
 
 * MVC Tag Helper Pack [GitHub][47]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
+* Dapper - light ORM mapper [GitHub][56]
 
-## Uncategorized
+## no Category
 
 * Energy production statistics of Germany on daily basis [Link][53]
 * Comparison of global cloud provider [Link][54]
@@ -77,3 +78,4 @@ published: true
  [53]: https://www.energy-charts.de/energy_pie_de.htm
  [54]: http://comparecloud.in/
  [55]: https://github.com/marcingminski/sqlwatch
+ [56]: https://github.com/StackExchange/Dapper
