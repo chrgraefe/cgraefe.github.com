@@ -17,6 +17,7 @@ published: true
 * dbachecks [GitHub][51]
 * WinSCP [GitHub][14]
 * sqlwatch [GitHub][55]
+* NTFSSecurity [GitHub][57]
 
 ## SQL Server tools
 
@@ -79,3 +80,4 @@ published: true
  [54]: http://comparecloud.in/
  [55]: https://github.com/marcingminski/sqlwatch
  [56]: https://github.com/StackExchange/Dapper
+ [57]: https://github.com/raandree/NTFSSecurity
