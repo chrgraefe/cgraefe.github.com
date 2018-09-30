@@ -46,6 +46,7 @@ published: true
 * MVC Tag Helper Pack [GitHub][47]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * Dapper - light ORM mapper [GitHub][56]
+* Opserver - Monitoring solution [GitHub][58]
 
 ## no Category
 
@@ -81,3 +82,4 @@ published: true
  [55]: https://github.com/marcingminski/sqlwatch
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
+ [58]: https://github.com/opserver/Opserver
