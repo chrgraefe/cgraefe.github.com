@@ -30,6 +30,7 @@ published: true
 * Query Performance Insights [GitHub][52]
 * SQL Server Feedback/Issue Site [Homepage][45]
 * SQL Server Setup Tools [GitHub][46]
+* SQL Server "html-query-plan" JavaScript library [GitHub][59]
 
 ## General purpose tools
 
@@ -83,3 +84,4 @@ published: true
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
  [58]: https://github.com/opserver/Opserver
+ [59]: https://github.com/JustinPealing/html-query-plan
