@@ -42,9 +42,11 @@ published: true
 * PostMan - Request and process data via REST [GitHub][49]
 * ditto – Clipboard extension to save more than one entry [Homepage][34]
 
-## C# / ASP.NET / MVC
+## C# / ASP.NET / MVC / Blazor
 
 * MVC Tag Helper Pack [GitHub][47]
+* Blazor [GitHub][60]
+* Blazor Extensions [GitHub][61]
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * Dapper - light ORM mapper [GitHub][56]
 * Opserver - Monitoring solution [GitHub][58]
@@ -85,3 +87,5 @@ published: true
  [57]: https://github.com/raandree/NTFSSecurity
  [58]: https://github.com/opserver/Opserver
  [59]: https://github.com/JustinPealing/html-query-plan
+ [60]: https://github.com/aspnet/Blazor
+ [61]: https://github.com/BlazorExtensions
