@@ -24,7 +24,7 @@ published: true
 * Ola Hallengren [GitHub][5] / [Homepage][6]
 * FirstResponderKit [GitHub][7]
 * CISL [GitHub][25]
-* BPCheck - SQL Best Practices and Performance checks [GitHub][30]
+* Tigertoolbox [GitHub][30]
 * AdventureWorks Databases [GitHub][36]
 * Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
 * Query Performance Insights [GitHub][52]
@@ -40,7 +40,6 @@ published: true
 * ScreenToGif [GitHub][19]
 * OutlookGoogleCalendarSync [GitHub][26]
 * PostMan - Request and process data via REST [GitHub][49]
-* ditto – Clipboard extension to save more than one entry [Homepage][34]
 
 ## C# / ASP.NET / MVC / Blazor
 
@@ -69,8 +68,7 @@ published: true
  [19]: https://github.com/NickeManarin/ScreenToGif
  [25]: https://github.com/NikoNeugebauer/CISL
  [26]: https://github.com/phw198/OutlookGoogleCalendarSync
- [30]: https://github.com/Microsoft/tigertoolbox/tree/master/BPCheck
- [34]: http://ditto-cp.sourceforge.net/
+ [30]: https://github.com/Microsoft/tigertoolbox
  [36]: https://github.com/Microsoft/sql-server-samples
  [40]: https://github.com/amtwo/dba-database
  [45]: https://feedback.azure.com/forums/908035-sql-server/

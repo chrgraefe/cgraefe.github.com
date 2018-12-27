@@ -6,31 +6,7 @@ layout: post
 published: false
 ---
 
-<!-- TOC -->
-
-- [Drivers](#drivers)
-    - [.NET driver](#net-driver)
-    - [OLEDB driver](#oledb-driver)
-        - [MSOLEDBSQL](#msoledbsql)
-        - [SQLNCLI](#sqlncli)
-        - [SQLOLEDB](#sqloledb)
-    - [ODBC driver](#odbc-driver)
-        - [ODBC driver 17](#odbc-driver-17)
-        - [ODBC driver 13.1](#odbc-driver-131)
-        - [ODBC driver 13](#odbc-driver-13)
-        - [ODBC driver 11](#odbc-driver-11)
-        - [ODBC driver 6 (builtin)](#odbc-driver-6-builtin)
-    - [JDBC driver](#jdbc-driver)
-        - [version 7.0](#version-70)
-        - [version 6.4](#version-64)
-        - [version 6.2](#version-62)
-        - [version 6.0](#version-60)
-        - [version 4.2](#version-42)
-        - [version 4.1](#version-41)
-    - [PHP driver](#php-driver)
-    - [node.js driver](#nodejs-driver)
-
-<!-- /TOC -->
+<!-- TOC -->autoauto- [Drivers](#drivers)auto    - [.NET driver](#net-driver)auto    - [OLEDB driver](#oledb-driver)auto        - [MSOLEDBSQL](#msoledbsql)auto        - [SQLNCLI](#sqlncli)auto        - [SQLOLEDB](#sqloledb)auto    - [ODBC driver](#odbc-driver)auto        - [ODBC driver 17](#odbc-driver-17)auto        - [ODBC driver 13.1](#odbc-driver-131)auto        - [ODBC driver 13](#odbc-driver-13)auto        - [ODBC driver 11](#odbc-driver-11)auto        - [ODBC driver 6 (builtin)](#odbc-driver-6-builtin)auto    - [JDBC driver](#jdbc-driver)auto        - [version 7.0](#version-70)auto        - [version 6.4](#version-64)auto        - [version 6.2](#version-62)auto        - [version 6.0](#version-60)auto        - [version 4.2](#version-42)auto        - [version 4.1](#version-41)auto    - [PHP driver](#php-driver)auto    - [node.js driver](#nodejs-driver)autoauto<!-- /TOC -->
 
 This is a place to document all sql server drivers and its specialities
 
