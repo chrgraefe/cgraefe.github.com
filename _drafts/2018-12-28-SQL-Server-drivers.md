@@ -19,6 +19,9 @@ This is a place to document all sql server drivers and its specialities
 ### MSOLEDBSQL
 
 ### SQLNCLI
+[Download SQL Server Native Client driver 11][30]
+[Download SQL Server Native Client driver 10.1][31]
+[Download SQL Server Native Client driver 10.0][32]
 
 ### SQLOLEDB
 
@@ -45,6 +48,9 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
 
 ## node.js driver
 
+ [30]: https://www.microsoft.com/en-us/download/details.aspx?id=50402
+ [31]: http://go.microsoft.com/fwlink/?LinkID=188401&clcid=0x409
+ [32]: https://www.microsoft.com/de-de/download/details.aspx?id=44277
 
  [10]: https://www.microsoft.com/en-us/download/details.aspx?id=56567
  [11]: https://www.microsoft.com/en-us/download/details.aspx?id=53339
