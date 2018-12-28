@@ -51,7 +51,9 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
 
 ## PHP driver
 
-## node.js driver
+[Download SQL Server PHP driver 5.3][60]
+[Download SQL Server PHP driver 5.2][61]
+[Download SQL Server PHP driver 4.3][62]
 
  [50]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
 
@@ -73,3 +75,7 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
  [26]: https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=11774
  [27]: https://www.microsoft.com/en-us/download/details.aspx?id=54671
  [28]: https://www.microsoft.com/en-us/download/details.aspx?id=54670
+
+ [60]: https://www.microsoft.com/en-us/download/details.aspx?id=57163
+ [61]: https://www.microsoft.com/en-us/download/details.aspx?id=56729
+ [62]: https://www.microsoft.com/en-us/download/details.aspx?id=55642
