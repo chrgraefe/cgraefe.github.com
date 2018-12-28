@@ -1,17 +1,13 @@
 ---
 ID: 150
 post_title: SQL Server drivers
-author: sharptools_wp
+author: Christian Gräfe
 post_excerpt: ""
 layout: post
 permalink: http://passionindata.de/?p=150
-published: false
+published: true
 ---
-<!-- TOC -->autoauto- 
-
-[Drivers][1]auto - [.NET driver][2]auto - [OLEDB driver][3]auto - [MSOLEDBSQL][4]auto - [SQLNCLI][5]auto - [SQLOLEDB][6]auto - [ODBC driver][7]auto - [ODBC driver 17][8]auto - [ODBC driver 13.1][9]auto - [ODBC driver 13][10]auto - [ODBC driver 11][11]auto - \[ODBC driver 6 (builtin)\](#odbc<!-- TOC -->autoauto- 
-
-[Drivers][1]auto - [.NET driver][2]auto - [OLEDB driver][3]auto - [MSOLEDBSQL][4]auto - [SQLNCLI][5]auto - [SQLOLEDB][6]auto - [ODBC driver][7]auto - [ODBC driver 17][8]auto - [ODBC driver 13.1][9]auto - [ODBC driver 13][10]auto - [ODBC driver 11][11]auto - [ODBC driver 6 (builtin)][12]auto - [JDBC driver][13]auto - [version 7.0][14]auto - [version 6.4][15]auto - [version 6.2][16]auto - [version 6.0][17]auto - [version 4.2][18]auto - [version 4.1][19]auto - [PHP driver][20]auto - [node.js driver][21]autoauto<!-- /TOC -->-driver-6-builtin)auto - 
+<!-- TOC -->autoauto- [Drivers](#drivers)auto    - [.NET driver](#net-driver)auto    - [OLEDB driver](#oledb-driver)auto        - [MSOLEDBSQL](#msoledbsql)auto        - [SQLNCLI](#sqlncli)auto        - [SQLOLEDB](#sqloledb)auto    - [ODBC driver](#odbc-driver)auto        - [ODBC driver 17](#odbc-driver-17)auto        - [ODBC driver 13.1](#odbc-driver-131)auto        - [ODBC driver 13](#odbc-driver-13)auto        - [ODBC driver 11](#odbc-driver-11)auto        - [ODBC driver 6 (builtin)](#odbc-driver-6-builtin)auto    - [JDBC driver](#jdbc-driver)auto        - [version 7.0](#version-70)auto        - [version 6.4](#version-64)auto        - [version 6.2](#version-62)auto        - [version 6.0](#version-60)auto        - [version 4.2](#version-42)auto        - [version 4.1](#version-41)auto    - [PHP driver](#php-driver)auto    - [node.js driver](#nodejs-driver)autoauto<!-- /TOC -->
 
 [JDBC driver][13]auto - [version 7.0][14]auto - [version 6.4][15]auto - [version 6.2][16]auto - [version 6.0][17]auto - [version 4.2][18]auto - [version 4.1][19]auto - [PHP driver][20]auto - [node.js driver][21]autoauto<!-- /TOC -->
 
