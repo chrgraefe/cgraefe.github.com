@@ -16,21 +16,17 @@ published: true
 * dbatools [GitHub][1] / [Homepage][2]
 * dbachecks [GitHub][51]
 * WinSCP [GitHub][14]
-* sqlwatch [GitHub][55]
 * NTFSSecurity [GitHub][57]
 
 ## SQL Server tools
 
 * Ola Hallengren [GitHub][5] / [Homepage][6]
 * FirstResponderKit [GitHub][7]
-* CISL [GitHub][25]
 * Tigertoolbox [GitHub][30]
 * AdventureWorks Databases [GitHub][36]
-* Blocking Monitor - SQL Server blocking monitor by Andy M Mallon [GitHub][40]
 * Query Performance Insights [GitHub][52]
 * SQL Server Feedback/Issue Site [Homepage][45]
 * SQL Server Setup Tools [GitHub][46]
-* SQL Server "html-query-plan" JavaScript library [GitHub][59]
 
 ## General purpose tools
 
@@ -49,6 +45,7 @@ published: true
 * SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * Dapper - light ORM mapper [GitHub][56]
 * Opserver - Monitoring solution [GitHub][58]
+* csvhelper - CSV import/export library [GitHub][62]
 
 ## no Category
 
@@ -66,11 +63,9 @@ published: true
  [14]: https://github.com/dotps1/WinSCP
  [15]: https://github.com/greenshot/greenshot
  [19]: https://github.com/NickeManarin/ScreenToGif
- [25]: https://github.com/NikoNeugebauer/CISL
  [26]: https://github.com/phw198/OutlookGoogleCalendarSync
  [30]: https://github.com/Microsoft/tigertoolbox
  [36]: https://github.com/Microsoft/sql-server-samples
- [40]: https://github.com/amtwo/dba-database
  [45]: https://feedback.azure.com/forums/908035-sql-server/
  [46]: https://github.com/suyouquan/SQLSetupTools
  [47]: https://github.com/DamianEdwards/TagHelperPack
@@ -80,10 +75,9 @@ published: true
  [52]: https://github.com/JocaPC/qpi
  [53]: https://www.energy-charts.de/energy_pie_de.htm
  [54]: http://comparecloud.in/
- [55]: https://github.com/marcingminski/sqlwatch
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
  [58]: https://github.com/opserver/Opserver
- [59]: https://github.com/JustinPealing/html-query-plan
  [60]: https://github.com/aspnet/Blazor
  [61]: https://github.com/BlazorExtensions
+ [62]: https://github.com/JoshClose/CsvHelper
