@@ -36,6 +36,7 @@ published: true
 * ScreenToGif [GitHub][19]
 * OutlookGoogleCalendarSync [GitHub][26]
 * PostMan - Request and process data via REST [GitHub][49]
+* mkcert - locally trusted development certificates [GitHub][64]
 
 ## C# / ASP.NET / MVC / Blazor
 
@@ -46,6 +47,7 @@ published: true
 * Dapper - light ORM mapper [GitHub][56]
 * Opserver - Monitoring solution [GitHub][58]
 * csvhelper - CSV import/export library [GitHub][62]
+* NFig - Strongly-typed application settings for .NET [GitHub][63]
 
 ## no Category
 
@@ -81,3 +83,5 @@ published: true
  [60]: https://github.com/aspnet/Blazor
  [61]: https://github.com/BlazorExtensions
  [62]: https://github.com/JoshClose/CsvHelper
+ [63]: https://github.com/NFig
+ [64]: https://github.com/FiloSottile/mkcert
