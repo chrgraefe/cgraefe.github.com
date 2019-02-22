@@ -18,6 +18,7 @@ This is a place to document all sql server drivers and its specialities
 
 ### MSOLEDBSQL (latest technology for OLEDB)
 
+[Download SQL Server MSOLEDBSQL driver 18.2][51]
 [Download SQL Server MSOLEDBSQL driver 18.1][50]
 
 ### SQLNCLI
@@ -32,6 +33,7 @@ Deprecated version of OLE DB provider. Please don't use it any more.
 
 ## ODBC driver
 
+[Download SQL Server ODBC driver 17.3][14]
 [Download SQL Server ODBC driver 17][10]
 [Download SQL Server ODBC driver 13.1][11]
 [Download SQL Server ODBC driver 13][12]
@@ -56,6 +58,7 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
 [Download SQL Server PHP driver 4.3][62]
 
  [50]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
+ [51]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
 
  [40]: https://docs.microsoft.com/en-us/sql/ado/guide/appendixes/microsoft-ole-db-provider-for-sql-server?view=sql-server-2017
 
@@ -67,6 +70,7 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
  [11]: https://www.microsoft.com/en-us/download/details.aspx?id=53339
  [12]: https://www.microsoft.com/en-us/download/details.aspx?id=50420
  [13]: https://www.microsoft.com/en-us/download/details.aspx?id=36434
+ [14]: https://www.microsoft.com/en-us/download/details.aspx?id=56567
 
  [22]: https://docs.microsoft.com/en-us/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server
  [23]: https://www.microsoft.com/en-us/download/details.aspx?id=57175
