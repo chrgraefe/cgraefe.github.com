@@ -18,6 +18,7 @@ This is a place to document all sql server drivers and its specialities
 
 ### MSOLEDBSQL (latest technology for OLEDB)
 
+[Download SQL Server MSOLEDBSQL driver 18.2.2][52]
 [Download SQL Server MSOLEDBSQL driver 18.2][51]
 [Download SQL Server MSOLEDBSQL driver 18.1][50]
 
@@ -38,12 +39,13 @@ Deprecated version of OLE DB provider. Please don't use it any more.
 [Download SQL Server ODBC driver 13.1][11]
 [Download SQL Server ODBC driver 13][12]
 [Download SQL Server ODBC driver 11][13]
-ODBC driver 6 (builtin)
+ODBC driver 6 (builtin OS)
 
 ## JDBC driver
 
 This [url][22] points to the main page of the SQL Server JDBC driver page
 
+[Download SQL Server JDBC driver 7.2][29]
 [Download SQL Server JDBC driver 7.0][23]
 [Download SQL Server JDBC driver 6.4][24]
 [Download SQL Server JDBC driver 6.2][25]
@@ -53,12 +55,14 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
 
 ## PHP driver
 
+[Download SQL Server PHP driver 5.6][63]
 [Download SQL Server PHP driver 5.3][60]
 [Download SQL Server PHP driver 5.2][61]
 [Download SQL Server PHP driver 4.3][62]
 
  [50]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
  [51]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
+ [52]: https://www.microsoft.com/en-us/download/details.aspx?id=56730
 
  [40]: https://docs.microsoft.com/en-us/sql/ado/guide/appendixes/microsoft-ole-db-provider-for-sql-server?view=sql-server-2017
 
@@ -79,7 +83,9 @@ This [url][22] points to the main page of the SQL Server JDBC driver page
  [26]: https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=11774
  [27]: https://www.microsoft.com/en-us/download/details.aspx?id=54671
  [28]: https://www.microsoft.com/en-us/download/details.aspx?id=54670
+ [29]: https://www.microsoft.com/en-us/download/details.aspx?id=57782
 
  [60]: https://www.microsoft.com/en-us/download/details.aspx?id=57163
  [61]: https://www.microsoft.com/en-us/download/details.aspx?id=56729
  [62]: https://www.microsoft.com/en-us/download/details.aspx?id=55642
+ [63]: https://www.microsoft.com/en-us/download/details.aspx?id=57916
