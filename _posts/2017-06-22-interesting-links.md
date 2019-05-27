@@ -14,19 +14,16 @@ published: true
 ## PowerShell
 
 * dbatools [GitHub][1] / [Homepage][2]
-* dbachecks [GitHub][51]
 * WinSCP [GitHub][14]
 * NTFSSecurity [GitHub][57]
+* ThreadJobs [GitHub][65]
+* Atta
 
 ## SQL Server tools
 
 * Ola Hallengren [GitHub][5] / [Homepage][6]
 * FirstResponderKit [GitHub][7]
 * Tigertoolbox [GitHub][30]
-* AdventureWorks Databases [GitHub][36]
-* Query Performance Insights [GitHub][52]
-* SQL Server Feedback/Issue Site [Homepage][45]
-* SQL Server Setup Tools [GitHub][46]
 
 ## General purpose tools
 
@@ -36,18 +33,13 @@ published: true
 * ScreenToGif [GitHub][19]
 * OutlookGoogleCalendarSync [GitHub][26]
 * PostMan - Request and process data via REST [GitHub][49]
-* mkcert - locally trusted development certificates [GitHub][64]
+* Attack Surface Analyzer [GitHub][66]
 
 ## C# / ASP.NET / MVC / Blazor
 
-* MVC Tag Helper Pack [GitHub][47]
-* Blazor [GitHub][60]
-* Blazor Extensions [GitHub][61]
-* SoapCore - SOAP with ASP.NET Core [GitHub][48]
 * Dapper - light ORM mapper [GitHub][56]
 * Opserver - Monitoring solution [GitHub][58]
 * csvhelper - CSV import/export library [GitHub][62]
-* NFig - Strongly-typed application settings for .NET [GitHub][63]
 
 ## no Category
 
@@ -85,3 +77,5 @@ published: true
  [62]: https://github.com/JoshClose/CsvHelper
  [63]: https://github.com/NFig
  [64]: https://github.com/FiloSottile/mkcert
+ [65]: https://github.com/PaulHigin/PSThreadJob
+ [66]: https://github.com/Microsoft/AttackSurfaceAnalyzer
