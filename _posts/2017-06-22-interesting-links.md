@@ -17,7 +17,6 @@ published: true
 * WinSCP [GitHub][14]
 * NTFSSecurity [GitHub][57]
 * ThreadJobs [GitHub][65]
-* Atta
 
 ## SQL Server tools
 
@@ -61,9 +60,6 @@ published: true
  [30]: https://github.com/Microsoft/tigertoolbox
  [36]: https://github.com/Microsoft/sql-server-samples
  [45]: https://feedback.azure.com/forums/908035-sql-server/
- [46]: https://github.com/suyouquan/SQLSetupTools
- [47]: https://github.com/DamianEdwards/TagHelperPack
- [48]: https://github.com/DigDes/SoapCore
  [49]: https://www.getpostman.com
  [51]: https://github.com/sqlcollaborative/dbachecks
  [52]: https://github.com/JocaPC/qpi
@@ -72,10 +68,6 @@ published: true
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
  [58]: https://github.com/opserver/Opserver
- [60]: https://github.com/aspnet/Blazor
- [61]: https://github.com/BlazorExtensions
  [62]: https://github.com/JoshClose/CsvHelper
- [63]: https://github.com/NFig
- [64]: https://github.com/FiloSottile/mkcert
- [65]: https://github.com/PaulHigin/PSThreadJob
+  [65]: https://github.com/PaulHigin/PSThreadJob
  [66]: https://github.com/Microsoft/AttackSurfaceAnalyzer
