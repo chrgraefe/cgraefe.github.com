@@ -34,11 +34,13 @@ published: true
 * PostMan - Request and process data via REST [GitHub][49]
 * Attack Surface Analyzer [GitHub][66]
 
-## C# / ASP.NET / MVC / Blazor
+## C# / ASP.NET / MVC / Blazor / WCF
 
 * Dapper - light ORM mapper [GitHub][56]
 * Opserver - Monitoring solution [GitHub][58]
 * csvhelper - CSV import/export library [GitHub][62]
+* BlazorStrap - Bootstrap 4 Components for Blazor Framework [GitHub][67]
+* CoreWCF - .NET Core implementation of the WCF [GitHub][68]
 
 ## no Category
 
@@ -69,5 +71,7 @@ published: true
  [57]: https://github.com/raandree/NTFSSecurity
  [58]: https://github.com/opserver/Opserver
  [62]: https://github.com/JoshClose/CsvHelper
-  [65]: https://github.com/PaulHigin/PSThreadJob
+ [65]: https://github.com/PaulHigin/PSThreadJob
  [66]: https://github.com/Microsoft/AttackSurfaceAnalyzer
+ [67]: https://github.com/chanan/BlazorStrap
+ [68]: https://github.com/CoreWCF/CoreWCF
