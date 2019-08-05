@@ -13,48 +13,54 @@ published: true
 
 ## PowerShell
 
-* dbatools [GitHub][1] / [Homepage][2]
-* WinSCP [GitHub][14]
-* NTFSSecurity [GitHub][57]
-* ThreadJobs [GitHub][65]
+* [GitHub][1] dbatools
+* [GitHub][14] WinSCP
+* [GitHub][57] NTFSSecurity
+* [GitHub][65] ThreadJobs
 
 ## SQL Server tools
 
-* Ola Hallengren [GitHub][5] / [Homepage][6]
-* FirstResponderKit [GitHub][7]
-* Tigertoolbox [GitHub][30]
+* [GitHub][77] sp_whoisactive - a replacement of the activity monitor
+* [GitHub][5] Ola Hallengren
+* [GitHub][7] FirstResponderKit
+* [GitHub][30] Tigertoolbox
+* [GitHub][72] tSQLt - SQL Server testing framework
+* [GitHub][74] SSASDiag - SQL Server Analysis diagnosis tool
 
 ## General purpose tools
 
-* OpenSSH-portable [GitHub][4]
-* Notepad++ [GitHub][12] / [Homepage][13]
-* Greenshot [GitHub][15]
-* ScreenToGif [GitHub][19]
-* OutlookGoogleCalendarSync [GitHub][26]
-* PostMan - Request and process data via REST [GitHub][49]
-* Attack Surface Analyzer [GitHub][66]
+* [GitHub][4] OpenSSH-portable
+* [GitHub][12] Notepad++
+* [GitHub][15] Greenshot
+* [GitHub][19] ScreenToGif
+* [GitHub][26] OutlookGoogleCalendarSync
+* [GitHub][49] PostMan - Request and process data via REST
+* [GitHub][66] Attack Surface Analyzer
+* [GitHub][69] Microsoft Terminal
+* [GitHub][70] Terminus - Alternative Terminal
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
-* Dapper - light ORM mapper [GitHub][56]
-* Opserver - Monitoring solution [GitHub][58]
-* csvhelper - CSV import/export library [GitHub][62]
-* BlazorStrap - Bootstrap 4 Components for Blazor Framework [GitHub][67]
-* CoreWCF - .NET Core implementation of the WCF [GitHub][68]
+* [GitHub][56] Dapper - light ORM mapper
+* [GitHub][58] Opserver - Monitoring solution
+* [GitHub][62] csvhelper - CSV import/export library
+* [GitHub][67] BlazorStrap - Bootstrap 4 Components for Blazor Framework
+* [GitHub][68] CoreWCF - .NET Core implementation of the WCF
+* [GitHub][71] Reshiru.Blazor - A framework for blazor which acts as an interface to IndexedDB
+* [GitHub][73] coverlet - Cross platform code coverage for .NET Core
+* [GitHub][75] Awesome Blazor - Blazor community site
+* [GitHub][76] Practical AspNetCore - Practical examples
 
 ## no Category
 
-* Energy production statistics of Germany on daily basis [Link][53]
-* Comparison of global cloud provider [Link][54]
+* [Link][53] Energy production statistics of Germany on daily basis
+* [Link][54] Comparison of global cloud provider
 
  [1]: https://github.com/sqlcollaborative/dbatools
- [2]: https://dbatools.io/
  [4]: https://github.com/PowerShell/openssh-portable
  [5]: https://github.com/olahallengren/sql-server-maintenance-solution
- [6]: https://ola.hallengren.com/
  [7]: https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit
  [12]: https://github.com/notepad-plus-plus/notepad-plus-plus
- [13]: https://notepad-plus-plus.org/
  [14]: https://github.com/dotps1/WinSCP
  [15]: https://github.com/greenshot/greenshot
  [19]: https://github.com/NickeManarin/ScreenToGif
@@ -75,3 +81,12 @@ published: true
  [66]: https://github.com/Microsoft/AttackSurfaceAnalyzer
  [67]: https://github.com/chanan/BlazorStrap
  [68]: https://github.com/CoreWCF/CoreWCF
+ [69]: https://github.com/microsoft/terminal
+ [70]: https://github.com/Eugeny/terminus
+ [71]: https://github.com/Reshiru/Blazor.IndexedDB.Framework
+ [72]: https://tsqlt.org/
+ [73]: https://github.com/tonerdo/coverlet
+ [74]: https://github.com/ssasdiag/SSASDiag
+ [75]: https://github.com/AdrienTorris/awesome-blazor
+ [76]: https://github.com/dodyg/practical-aspnetcore
+ [77]: https://github.com/amachanic/sp_whoisactive
