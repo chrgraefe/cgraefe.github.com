@@ -46,7 +46,7 @@ published: true
 * [GitHub][62] csvhelper - CSV import/export library
 * [GitHub][67] BlazorStrap - Bootstrap 4 Components for Blazor Framework
 * [GitHub][68] CoreWCF - .NET Core implementation of the WCF
-* [GitHub][71] Reshiru.Blazor - A framework for blazor which acts as an interface to IndexedDB
+* [GitHub][71] Reshiru.Blazor - An interface to IndexedDB
 * [GitHub][73] coverlet - Cross platform code coverage for .NET Core
 * [GitHub][75] Awesome Blazor - Blazor community site
 * [GitHub][76] Practical AspNetCore - Practical examples
@@ -84,7 +84,7 @@ published: true
  [69]: https://github.com/microsoft/terminal
  [70]: https://github.com/Eugeny/terminus
  [71]: https://github.com/Reshiru/Blazor.IndexedDB.Framework
- [72]: https://tsqlt.org/
+ [72]: https://github.com/tSQLt-org/tSQLt
  [73]: https://github.com/tonerdo/coverlet
  [74]: https://github.com/ssasdiag/SSASDiag
  [75]: https://github.com/AdrienTorris/awesome-blazor
