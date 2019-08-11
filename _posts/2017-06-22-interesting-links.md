@@ -26,6 +26,7 @@ published: true
 * [GitHub][30] Tigertoolbox
 * [GitHub][72] tSQLt - SQL Server testing framework
 * [GitHub][74] SSASDiag - SQL Server Analysis diagnosis tool
+* [GitHub][78] The new SQL Client for .NET & .NET Core
 
 ## General purpose tools
 
@@ -90,3 +91,4 @@ published: true
  [75]: https://github.com/AdrienTorris/awesome-blazor
  [76]: https://github.com/dodyg/practical-aspnetcore
  [77]: https://github.com/amachanic/sp_whoisactive
+ [78]: https://github.com/dotnet/SqlClient
