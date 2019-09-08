@@ -16,7 +16,6 @@ published: true
 * [GitHub][1] dbatools
 * [GitHub][14] WinSCP
 * [GitHub][57] NTFSSecurity
-* [GitHub][65] ThreadJobs
 
 ## SQL Server tools
 
@@ -25,7 +24,6 @@ published: true
 * [GitHub][7] FirstResponderKit
 * [GitHub][30] Tigertoolbox
 * [GitHub][72] tSQLt - SQL Server testing framework
-* [GitHub][74] SSASDiag - SQL Server Analysis diagnosis tool
 * [GitHub][78] The new SQL Client for .NET & .NET Core
 
 ## General purpose tools
@@ -36,17 +34,13 @@ published: true
 * [GitHub][19] ScreenToGif
 * [GitHub][26] OutlookGoogleCalendarSync
 * [GitHub][49] PostMan - Request and process data via REST
-* [GitHub][66] Attack Surface Analyzer
-* [GitHub][69] Microsoft Terminal
-* [GitHub][70] Terminus - Alternative Terminal
 
 ## C# / ASP.NET / MVC / Blazor / WCF
 
 * [GitHub][56] Dapper - light ORM mapper
-* [GitHub][58] Opserver - Monitoring solution
-* [GitHub][62] csvhelper - CSV import/export library
 * [GitHub][67] BlazorStrap - Bootstrap 4 Components for Blazor Framework
 * [GitHub][68] CoreWCF - .NET Core implementation of the WCF
+* [GitHub][79] SoapCore - .NET Core implementation of the WCF
 * [GitHub][71] Reshiru.Blazor - An interface to IndexedDB
 * [GitHub][73] coverlet - Cross platform code coverage for .NET Core
 * [GitHub][75] Awesome Blazor - Blazor community site
@@ -76,19 +70,13 @@ published: true
  [54]: http://comparecloud.in/
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
- [58]: https://github.com/opserver/Opserver
- [62]: https://github.com/JoshClose/CsvHelper
- [65]: https://github.com/PaulHigin/PSThreadJob
- [66]: https://github.com/Microsoft/AttackSurfaceAnalyzer
  [67]: https://github.com/chanan/BlazorStrap
  [68]: https://github.com/CoreWCF/CoreWCF
- [69]: https://github.com/microsoft/terminal
- [70]: https://github.com/Eugeny/terminus
  [71]: https://github.com/Reshiru/Blazor.IndexedDB.Framework
  [72]: https://github.com/tSQLt-org/tSQLt
  [73]: https://github.com/tonerdo/coverlet
- [74]: https://github.com/ssasdiag/SSASDiag
  [75]: https://github.com/AdrienTorris/awesome-blazor
  [76]: https://github.com/dodyg/practical-aspnetcore
  [77]: https://github.com/amachanic/sp_whoisactive
  [78]: https://github.com/dotnet/SqlClient
+ [79]: https://github.com/DigDes/SoapCore
