@@ -45,6 +45,7 @@ published: true
 * [GitHub][73] coverlet - Cross platform code coverage for .NET Core
 * [GitHub][75] Awesome Blazor - Blazor community site
 * [GitHub][76] Practical AspNetCore - Practical examples
+* [GitHub][80] FluentValidation - Validation framework
 
 ## no Category
 
@@ -80,3 +81,4 @@ published: true
  [77]: https://github.com/amachanic/sp_whoisactive
  [78]: https://github.com/dotnet/SqlClient
  [79]: https://github.com/DigDes/SoapCore
+ [80]: https://github.com/JeremySkinner/FluentValidation
