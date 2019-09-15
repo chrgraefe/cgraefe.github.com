@@ -47,6 +47,7 @@ published: true
 * [GitHub][76] Practical AspNetCore - Practical examples
 * [GitHub][80] FluentValidation - Validation framework
 * [GitHub][81] Blazor-Validation - Blazor validation component
+* [GitHub][82] Blazor-InputFile - File Upload component
 
 ## no Category
 
@@ -84,3 +85,4 @@ published: true
  [79]: https://github.com/DigDes/SoapCore
  [80]: https://github.com/JeremySkinner/FluentValidation
  [81]: https://github.com/mrpmorris/blazor-validation
+ [82]: https://github.com/SteveSandersonMS/BlazorInputFile
