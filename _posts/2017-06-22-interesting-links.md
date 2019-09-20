@@ -48,6 +48,8 @@ published: true
 * [GitHub][80] FluentValidation - Validation framework
 * [GitHub][81] Blazor-Validation - Blazor validation component
 * [GitHub][82] Blazor-InputFile - File Upload component
+* [GitHub][83] Healthchecks - Asp.Net Core Health Checks
+
 
 ## no Category
 
@@ -86,3 +88,4 @@ published: true
  [80]: https://github.com/JeremySkinner/FluentValidation
  [81]: https://github.com/mrpmorris/blazor-validation
  [82]: https://github.com/SteveSandersonMS/BlazorInputFile
+ [83]: https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks
