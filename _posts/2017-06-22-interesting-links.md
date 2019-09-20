@@ -50,7 +50,6 @@ published: true
 * [GitHub][82] Blazor-InputFile - File Upload component
 * [GitHub][83] Healthchecks - Asp.Net Core Health Checks
 
-
 ## no Category
 
 * [Link][53] Energy production statistics of Germany on daily basis
