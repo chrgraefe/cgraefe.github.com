@@ -41,7 +41,7 @@ published: true
 * [GitHub][67] BlazorStrap - Bootstrap 4 Components for Blazor Framework
 * [GitHub][68] CoreWCF - .NET Core implementation of the WCF
 * [GitHub][79] SoapCore - .NET Core implementation of the WCF
-* [GitHub][71] Reshiru.Blazor - An interface to IndexedDB
+* [GitHub][71] Blazor IndexedDB - An interface to IndexedDB
 * [GitHub][73] coverlet - Cross platform code coverage for .NET Core
 * [GitHub][75] Awesome Blazor - Blazor community site
 * [GitHub][76] Practical AspNetCore - Practical examples
@@ -77,7 +77,7 @@ published: true
  [57]: https://github.com/raandree/NTFSSecurity
  [67]: https://github.com/chanan/BlazorStrap
  [68]: https://github.com/CoreWCF/CoreWCF
- [71]: https://github.com/Reshiru/Blazor.IndexedDB.Framework
+ [71]: https://github.com/wtulloch/Blazor.IndexedDB
  [72]: https://github.com/tSQLt-org/tSQLt
  [73]: https://github.com/tonerdo/coverlet
  [75]: https://github.com/AdrienTorris/awesome-blazor
