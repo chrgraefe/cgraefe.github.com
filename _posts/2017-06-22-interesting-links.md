@@ -50,6 +50,7 @@ published: true
 * [GitHub][82] Blazor-InputFile - File Upload component
 * [GitHub][83] Healthchecks - Asp.Net Core Health Checks
 * [GitHub][84] Blazor.OpenId - Blazor OpenId library
+* [GitHub][85] Blazor Table - Table Control for Blazor
 
 ## no Category
 
@@ -90,3 +91,4 @@ published: true
  [82]: https://github.com/SteveSandersonMS/BlazorInputFile
  [83]: https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks
  [84]: https://github.com/jbomhold3/Blazor.Openid
+ [85]: https://github.com/IvanJosipovic/BlazorTable
