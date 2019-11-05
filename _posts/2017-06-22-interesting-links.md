@@ -51,6 +51,7 @@ published: true
 * [GitHub][83] Healthchecks - Asp.Net Core Health Checks
 * [GitHub][84] Blazor.OpenId - Blazor OpenId library
 * [GitHub][85] Blazor Table - Table Control for Blazor
+* [GitHub][86] Blazor.Auth0 - Auth0 in Blazor
 
 ## no Category
 
@@ -92,3 +93,4 @@ published: true
  [83]: https://github.com/xabaril/AspNetCore.Diagnostics.HealthChecks
  [84]: https://github.com/jbomhold3/Blazor.Openid
  [85]: https://github.com/IvanJosipovic/BlazorTable
+ [86]: https://github.com/henalbrod/Blazor.Auth0
