@@ -52,6 +52,7 @@ published: true
 * [GitHub][84] Blazor.OpenId - Blazor OpenId library
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][86] Blazor.Auth0 - Auth0 in Blazor
+* [GitHub][87] Radzen Blazor Components
 
 ## no Category
 
@@ -94,3 +95,4 @@ published: true
  [84]: https://github.com/jbomhold3/Blazor.Openid
  [85]: https://github.com/IvanJosipovic/BlazorTable
  [86]: https://github.com/henalbrod/Blazor.Auth0
+ [87]: https://github.com/akorchev/blazor.radzen.com/
