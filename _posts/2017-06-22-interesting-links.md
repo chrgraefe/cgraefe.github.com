@@ -16,6 +16,8 @@ published: true
 * [GitHub][1] dbatools
 * [GitHub][14] WinSCP
 * [GitHub][57] NTFSSecurity
+* [GitHub][86] ImportExcel
+* [GitHub][87] Posh-SSH
 
 ## SQL Server tools
 
@@ -32,11 +34,11 @@ published: true
 ## C# / ASP.NET / MVC / Blazor / WCF
 
 * [GitHub][56] Dapper - light ORM mapper
-* [GitHub][67] BlazorStrap - Bootstrap 4 Components for Blazor Framework
-* [GitHub][68] CoreWCF - .NET Core implementation of the WCF
 * [GitHub][79] SoapCore - .NET Core implementation of the WCF
 * [GitHub][71] Blazor IndexedDB - An interface to IndexedDB
 * [GitHub][85] Blazor Table - Table Control for Blazor
+* [GitHub][88] Closed XML - Excel Library
+* [GitHub][89] SSH.NET - Secure Shell Library
 
 ## no Category
 
@@ -54,10 +56,11 @@ published: true
  [54]: http://comparecloud.in/
  [56]: https://github.com/StackExchange/Dapper
  [57]: https://github.com/raandree/NTFSSecurity
- [67]: https://github.com/chanan/BlazorStrap
- [68]: https://github.com/CoreWCF/CoreWCF
  [71]: https://github.com/wtulloch/Blazor.IndexedDB
  [77]: https://github.com/amachanic/sp_whoisactive
  [79]: https://github.com/DigDes/SoapCore
  [85]: https://github.com/IvanJosipovic/BlazorTable
- 
+ [86]: https://github.com/dfinke/ImportExcel
+ [87]: https://github.com/darkoperator/Posh-SSH
+ [88]: https://github.com/ClosedXML/ClosedXML
+ [89]: https://github.com/sshnet/SSH.NET
