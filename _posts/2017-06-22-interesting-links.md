@@ -37,6 +37,7 @@ published: true
 * [GitHub][85] Blazor Table - Table Control for Blazor
 * [GitHub][88] Closed XML - Excel Library
 * [GitHub][89] SSH.NET - Secure Shell Library
+* [GitHub][93] SharpGrip FileSystem is a file system abstraction supporting multiple adapters
 
 ## no Category
 
@@ -60,3 +61,4 @@ published: true
  [90]: https://github.com/IdentityServer/IdentityServer4
  [91]: https://github.com/Nordes/IdentityServer4.LdapExtension
  [92]: https://github.com/skoruba/IdentityServer4.Admin
+ [93]: https://github.com/SharpGrip/FileSystem
