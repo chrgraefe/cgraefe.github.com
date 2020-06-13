@@ -41,7 +41,7 @@ published: true
 
 ## no Category
 
-* [Link][53] Energy production statistics of Germany on daily basis
+* [Link][53] Energy production statistics of Germany
 * [Link][54] Comparison of global cloud provider
 
  [1]: https://github.com/sqlcollaborative/dbatools
